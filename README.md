@@ -2,7 +2,7 @@
 
 ## Objective
 The goal of this project is to build machine learning models that can predict whether a customer’s loan application will be approved.  
-We compare *Logistic Regression, **Decision Tree Classifier, and **Random Forest, while applying **regularization* and *hyperparameter optimization (GridSearchCV)*.
+We compare *Logistic Regression*, *Decision Tree Classifier*, and *Random Forest*, while applying **regularization* and *hyperparameter optimization (GridSearchCV)*.
 
 ---
 
@@ -80,7 +80,7 @@ We conducted *6 experiments* in total:
 
 ## Conclusion
 - *Logistic Regression* → interpretable, stable, effective when data is linearly separable.  
-- *Decision Tree* → interpretable rules but prone to overfitting without tuning.  
+- *Decision Tree* → interpretable rules and deliverd stable accuracy across both taining and test when using grid search.  
 - *Random Forest* → more robust, reduces overfitting, and achieved the *best accuracy* after tuning.  
 
  *Final Takeaway*: In My Opinion Decision Tree with drid search is the best model because it achieved the same accuracy as Random Forest with much lower computational cost 
