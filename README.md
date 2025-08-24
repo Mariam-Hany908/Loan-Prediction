@@ -64,7 +64,6 @@ We conducted *6 experiments* in total:
 - Random Forest (untuned) also overfit, but performed slightly better than a single tree.  
 - Logistic Regression gave *stable and consistent results* without overfitting.  
 - GridSearchCV significantly improved Decision Tree and Random Forest, bringing their performance closer to Logistic Regression.  
-- *Best Model*: ✅ Random Forest with GridSearchCV (82.75% train, 78.38% test).  
 
 ---
 
@@ -84,4 +83,4 @@ We conducted *6 experiments* in total:
 - *Decision Tree* → interpretable rules but prone to overfitting without tuning.  
 - *Random Forest* → more robust, reduces overfitting, and achieved the *best accuracy* after tuning.  
 
-📌 *Final Takeaway*: In My Opinion Decision Tree with drid search is the best model 
+ *Final Takeaway*: In My Opinion Decision Tree with drid search is the best model 
