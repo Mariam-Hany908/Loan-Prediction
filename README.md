@@ -83,4 +83,4 @@ We conducted *6 experiments* in total:
 - *Decision Tree* → interpretable rules but prone to overfitting without tuning.  
 - *Random Forest* → more robust, reduces overfitting, and achieved the *best accuracy* after tuning.  
 
- *Final Takeaway*: In My Opinion Decision Tree with drid search is the best model 
+ *Final Takeaway*: In My Opinion Decision Tree with drid search is the best model because it achieved the same accuracy as Random Forest with much lower computational cost 
