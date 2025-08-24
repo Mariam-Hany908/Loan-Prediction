@@ -2,7 +2,7 @@
 
 ## Objective
 The goal of this project is to build machine learning models that can predict whether a customer’s loan application will be approved.  
-We compare *Logistic Regression*, *Decision Tree Classifier*, and *Random Forest*, while applying **regularization* and *hyperparameter optimization (GridSearchCV)*.
+We compare **Logistic Regression**, **Decision Tree Classifier**, and **Random Forest**, while applying *regularization* and *hyperparameter optimization (GridSearchCV)*.
 
 ---
 
